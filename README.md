@@ -11,3 +11,4 @@ We are a tech company founded by user [ilkyaa](https://github.com/ilkyaa) and co
 ### Origins
 
 We are a French company, [ilkyaa](https://github.com/ilkyaa), the French one, [GamingBurber](https://github.com/GamingBurber), the British one.
+Nothing more, nothing less.
