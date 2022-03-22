@@ -1,4 +1,4 @@
-# Omniscorp
+# [Omniscorp](https://github.com/OmnisCorp)
 
 ![](https://tinyurl.com/omniscorplogo2022)
 
