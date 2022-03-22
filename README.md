@@ -1,6 +1,6 @@
 # Omniscorp
 
-![](res\img\Omniscorp Logo 2022.png)
+![](res\img\logo.png\)
 
 ## Who are we?
 
