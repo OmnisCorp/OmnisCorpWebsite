@@ -18,4 +18,8 @@ Nothing more, nothing less.
 
 [GamingBurber](https://github.com/GamingBurber) is a British/French developer who codes in C++, HTML, Java and mcfunction.
 
+### Why do we exist?
+
+idk man.
+
 # Site Still In Development
