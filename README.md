@@ -12,14 +12,19 @@ We are a tech company founded by user [ilkyaa](https://github.com/ilkyaa) and co
 
 We are a French company, [ilkyaa](https://github.com/ilkyaa), the French one, [GamingBurber](https://github.com/GamingBurber), the British one.
 
-Nothing more, nothing less.
-
 [ilkyaa](https://github.com/ilkyaa) is a French developer who codes in Rust, Javascript, Go, Lua CSS and HTML.
 
 [GamingBurber](https://github.com/GamingBurber) is a British/French developer who codes in C++, HTML, Java and mcfunction.
 
 ### Why do we exist?
 
-idk man.
+idk man, but seriously, I have no idea.
+
+Mostly boardom, I think.
+
+### Some of our projects
+
+[A little prank for friend coded in C++ by [GamingBurber](https://github.com/GamingBurber) [](https://github.com/OmnisCorp/CPU-RAM_EQUALS_NOT-HAPPY)]
+[A Music Player coded in Rust by [ilkyaa](https://github.com/ilkyaa) (as of 23/03/2022 this repo is still private)]().
 
 # Site Still In Development
