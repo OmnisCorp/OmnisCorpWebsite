@@ -6,7 +6,7 @@
 
 ### People
 
-We are a tech company founded by user [ilkyaa](https://github.com/ilkyaa) and co-founded by user [GamingBurber](https://github.com/GamingBurber).
+We are a software company founded by user [ilkyaa](https://github.com/ilkyaa) and co-founded by user [GamingBurber](https://github.com/GamingBurber).
 
 ### Origins
 
