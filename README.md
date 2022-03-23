@@ -24,7 +24,8 @@ Mostly boardom, I think.
 
 ### Some of our projects
 
-[A little prank for friend coded in C++ by [GamingBurber](https://github.com/GamingBurber) [](https://github.com/OmnisCorp/CPU-RAM_EQUALS_NOT-HAPPY)]
-[A Music Player coded in Rust by [ilkyaa](https://github.com/ilkyaa) (as of 23/03/2022 this repo is still private)]().
+[A little prank for friends]([](https://github.com/OmnisCorp/CPU-RAM_EQUALS_NOT-HAPPY)). coded in C++ by [GamingBurber](https://github.com/GamingBurber).
+
+[A music player coded in Rust](https://github.com/OmnisCorp/froze) by [ilkyaa](https://github.com/ilkyaa) (as of 23/03/2022 this repo is still private).
 
 # Site Still In Development
