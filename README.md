@@ -32,16 +32,6 @@ Mostly boardom, I think.
 
 [A simple cross-platform calculator](https://github.com/OmnisCorp/OurLessShittyCalculator) coded in Java by [GamingBurber](https://github.com/GamingBurber).
 
-### We like anime, here's a list
-
-<!-- ANILIST_ANIME:START -->
-<!-- ANILIST_ANIME:END -->
-
-### Manga too
-
-<!-- ANILIST_MANGA:START -->
-<!-- ANILIST_MANGA:END -->
-
 # Site Still In Development
 
 Yeah...
