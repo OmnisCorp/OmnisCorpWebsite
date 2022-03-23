@@ -18,7 +18,7 @@ We are a French company, [ilkyaa](https://github.com/ilkyaa), the French one, [G
 
 ### Why do we exist?
 
-idk man, but seriously, I have no idea.
+idk man.
 
 Mostly boardom, I think.
 
