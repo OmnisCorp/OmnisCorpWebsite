@@ -12,9 +12,9 @@ We are a 2-person software company founded by user [ilkyaa](https://github.com/i
 
 We are a French company, with a sprinkle of British, [ilkyaa](https://github.com/ilkyaa) being the French one, [GamingBurber](https://github.com/GamingBurber), the British one.
 
-[ilkyaa](https://github.com/ilkyaa) is a French developer who codes in Rust, Javascript, Go, Lua, CSS and HTML.
+[ilkyaa](https://github.com/ilkyaa) is a French developer who codes in Rust, Javascript(Mainly), Go, Lua, CSS and HTML.
 
-[GamingBurber](https://github.com/GamingBurber) is a British/French developer who codes in C++, HTML, Java and mcfunction.
+[GamingBurber](https://github.com/GamingBurber) is a British/French developer who codes in C++(Mainly), HTML, Java and mcfunction.
 
 ### Why do we exist?
 
@@ -40,9 +40,13 @@ Mostly boardom, I think.
 
 ### Some of [GamingBurber's](https://github.com/GamingBurber) projects/repos
 
-[A Demonic Sword mod for Minecraft Forge 1.16.5](https://github.com/GamingBurber/DemonicSwordModMinecraft) coded in Java.
+[A Minecraft mod that adds a Demonic Sword - Forge 1.16.5](https://github.com/GamingBurber/DemonicSwordModMinecraft) coded in Java.
 
 [A Minecrat mod that allows you to snort redstone - Forge 1.16.5](https://github.com/GamingBurber/SnortableRedstone) coded in Java.
+
+[A Minecraft mod that adds Ruby Armor and Tools - Forge 1.16.5](https://github.com/GamingBurber/RubyToolsAndArmor) coded in Java.
+
+[A Minecraft mod that removes phantoms from the game - Forge 1.16.5](https://github.com/GamingBurber/NoMorePhantomsMod) coded in Java and mcfunction. PS: It doesn't remove them from the game, just them off.
 
 ### Site Still In Development
 
