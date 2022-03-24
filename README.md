@@ -46,7 +46,9 @@ Mostly boardom, I think.
 
 [A Minecraft mod that adds Ruby Armor and Tools - Forge 1.16.5](https://github.com/GamingBurber/RubyToolsAndArmor) coded in Java.
 
-[A Minecraft mod that removes phantoms from the game - Forge 1.16.5](https://github.com/GamingBurber/NoMorePhantomsMod) coded in Java and mcfunction. PS: It doesn't remove them from the game, just them off.
+[A Minecraft mod that removes phantoms from the game - Forge 1.16.5](https://github.com/GamingBurber/NoMorePhantomsMod) coded in Java and mcfunction.
+
+PS: It doesn't remove them from the game, just them off.
 
 ### Site Still In Development
 
