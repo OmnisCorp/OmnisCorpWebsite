@@ -6,7 +6,7 @@
 
 ### People
 
-We are a software company founded by user [ilkyaa](https://github.com/ilkyaa) and co-founded by user [GamingBurber](https://github.com/GamingBurber).
+We are a 2-person software company founded by user [ilkyaa](https://github.com/ilkyaa) and co-founded by user [GamingBurber](https://github.com/GamingBurber).
 
 ### Origins
 
@@ -22,7 +22,7 @@ idk man.
 
 Mostly boardom, I think.
 
-### Some of our projects
+### Some of our projects/repos
 
 [A little prank for friends](https://github.com/OmnisCorp/CPU-RAM_EQUALS_NOT-HAPPY) coded in C++ by [GamingBurber](https://github.com/GamingBurber).
 
@@ -31,6 +31,18 @@ Mostly boardom, I think.
 [A small program that choses your weapon in Apex Legends](https://github.com/OmnisCorp/ApexGunPickerV2) coded in C++ by [GamingBurber](https://github.com/GamingBurber).
 
 [A simple cross-platform calculator](https://github.com/OmnisCorp/OurLessShittyCalculator) coded in Java by [GamingBurber](https://github.com/GamingBurber).
+
+### Some of [ilkyaa's](https://github.com/ilkyaa) projects/repos
+
+[A multi-purpose discord bot](https://github.com/ilkyaa/yandere-bot-public) coded in JavaScript.
+
+[Some Better Discord themes](https://github.com/ilkyaa/better-discord-themes) coded in CSS.
+
+### Some of [GamingBurber's](https://github.com/GamingBurber) projects/repos
+
+[A Demonic Sword mod for Minecraft Forge 1.16.5](https://github.com/GamingBurber/DemonicSwordModMinecraft) coded in Java.
+
+[A Minecrat mod that allows you to snort redstone - Forge 1.16.5](https://github.com/GamingBurber/SnortableRedstone) coded in Java.
 
 # Site Still In Development
 
