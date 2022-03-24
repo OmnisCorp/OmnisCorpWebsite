@@ -10,7 +10,7 @@ We are a 2-person software company founded by user [ilkyaa](https://github.com/i
 
 ### Origins
 
-We are a French company, [ilkyaa](https://github.com/ilkyaa), the French one, [GamingBurber](https://github.com/GamingBurber), the British one.
+We are a French company, with a sprinkle of British, [ilkyaa](https://github.com/ilkyaa) being the French one, [GamingBurber](https://github.com/GamingBurber), the British one.
 
 [ilkyaa](https://github.com/ilkyaa) is a French developer who codes in Rust, Javascript, Go, Lua, CSS and HTML.
 
@@ -26,7 +26,7 @@ Mostly boardom, I think.
 
 [A little prank for friends](https://github.com/OmnisCorp/CPU-RAM_EQUALS_NOT-HAPPY) coded in C++ by [GamingBurber](https://github.com/GamingBurber).
 
-[A music player coded in Rust](https://github.com/OmnisCorp/froze) by [ilkyaa](https://github.com/ilkyaa) (as of 23/03/2022 this repo is still private).
+[A free music player/streamer coded in Rust](https://github.com/OmnisCorp/froze) by [ilkyaa](https://github.com/ilkyaa) (as of 23/03/2022 this repo is still private).
 
 [A small program that choses your weapon in Apex Legends](https://github.com/OmnisCorp/ApexGunPickerV2) coded in C++ by [GamingBurber](https://github.com/GamingBurber).
 
@@ -44,6 +44,6 @@ Mostly boardom, I think.
 
 [A Minecrat mod that allows you to snort redstone - Forge 1.16.5](https://github.com/GamingBurber/SnortableRedstone) coded in Java.
 
-# Site Still In Development
+### Site Still In Development
 
 Yeah...
