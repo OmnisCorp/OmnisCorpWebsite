@@ -48,7 +48,7 @@ Mostly boardom, I think.
 
 [A Minecraft mod that removes phantoms from the game - Forge 1.16.5](https://github.com/GamingBurber/NoMorePhantomsMod) coded in Java and mcfunction.
 
-PS: It doesn't remove them from the game, just them off.
+PS: It doesn't remove them from the game, just turns spawning off.
 
 ### Site Still In Development
 
