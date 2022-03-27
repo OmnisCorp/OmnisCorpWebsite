@@ -1,6 +1,6 @@
 # [Omniscorp](https://github.com/OmnisCorp)
 
-![IMAGE](https://tinyurl.com/omniscorplogo2022)
+![](https://tinyurl.com/omniscorplogo2022)
 
 ## Who are we?
 
