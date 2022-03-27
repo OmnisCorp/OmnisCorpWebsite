@@ -1,6 +1,6 @@
 # [Omniscorp](https://github.com/OmnisCorp)
 
-![](https://tinyurl.com/omniscorplogo2022)
+![IMAGE](https://tinyurl.com/omniscorplogo2022)
 
 ## Who are we?
 
@@ -14,7 +14,7 @@ We are a French company, with a sprinkle of British, [ilkyaa](https://github.com
 
 [ilkyaa](https://github.com/ilkyaa) is a French developer who codes in Rust, Javascript(Mainly), Go, Lua, CSS and HTML.
 
-[GamingBurber](https://github.com/GamingBurber) is a British/French developer who codes in C++(Mainly), HTML, Java and mcfunction.
+[GamingBurber](https://github.com/GamingBurber) is a British/French developer who codes in C++(Mainly), HTML, Python, Java and mcfunction.
 
 ### Why do we exist?
 
