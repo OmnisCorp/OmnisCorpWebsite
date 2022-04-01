@@ -26,7 +26,7 @@ Mostly boardom, I think.
 
 [An interesting puzzle game with a time element](https://sites.google.com/view/omnis-time-game/home?authuser=1) using Unreal Engine 4.27.
 
-Contributers: [GamingBurber](https://github.com/GamingBurber) and [ilkyaa](https://github.com/ilkyaa).
+Contributors: [GamingBurber](https://github.com/GamingBurber) and [ilkyaa](https://github.com/ilkyaa).
 
 ### Some of our projects/repos
 
