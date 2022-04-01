@@ -22,6 +22,12 @@ idk man.
 
 Mostly boardom, I think.
 
+### Our current main project
+
+[An interesting puzzle game with a time element](https://sites.google.com/view/omnis-time-game/home?authuser=1) using Unreal Engine 4.27.
+
+Contributers: [GamingBurber](https://github.com/GamingBurber) and [ilkyaa](https://github.com/ilkyaa).
+
 ### Some of our projects/repos
 
 [A little prank for friends](https://github.com/OmnisCorp/CPU-RAM_EQUALS_NOT-HAPPY) coded in C++ by [GamingBurber](https://github.com/GamingBurber).
