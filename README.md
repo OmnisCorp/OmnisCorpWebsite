@@ -2,6 +2,8 @@
 
 ![](https://i.postimg.cc/vH62P1xb/Omniscorp-Logo-2022.png)
 
+[NEW WEBSITE](http://omniscorp.epizy.com)
+
 ## Who are we?
 
 ### People
