@@ -2,7 +2,7 @@
 
 ![](https://i.postimg.cc/vH62P1xb/Omniscorp-Logo-2022.png)
 
-[NEW WEBSITE](http://omniscorp.epizy.com)
+[NEW WEBSITE](http://omnis-corp.rf.gd)
 
 ## Who are we?
 
